@@ -1,3 +1,5 @@
+// Team: Chuefeng Vue, Court Sherrod, Gregory Harris, Will Washington
+
 const parentElement = document.querySelector(".katas-list")
 const div1 = document.createElement("div")
 const div2 = document.createElement("div")
